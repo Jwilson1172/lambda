@@ -1,10 +1,10 @@
 ﻿web-scraper-order,web-scraper-start-url,name,address,rating,num_to_rate
-"1583044594-2","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza","3678 Sewells Point Rd","4.0","(322)"
-"1583044594-5","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza","3324 Holland Road","4.0","(192)"
-"1583044594-7","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza","1009 Laskin Rd","4.2","(251)"
-"1583044594-4","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza","5280 Princess Anne Rd","4.4","(165)"
-"1583044594-9","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza","624 Independence Blvd","3.9","(133)"
-"1583044594-3","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza","738 E Bayview Blvd","4.1","(160)"
-"1583044594-1","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza - East Little Creek","3824 E Little Creek Rd","4.2","(172)"
-"1583044594-8","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza","1405 Harpers Rd","4.4","(82)"
-"1583044594-6","https://www.google.com/maps/search/calz+pizza/@36.8599294,-76.1147392,11z","Cal'z Pizza, Subs, & Wings","8245 Hampton Blvd","3.8","(86)"
+1583044594-2,"https://www.google.com/maps/place/Cal'z+Pizza+-+East+Little+Creek/@36.9181643,-76.2003157,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89ba914bb73fa53b:0x1301c924d4200997!8m2!3d36.91816!4d-76.198127!9m1!1b1",Cal'z Pizza,3678 Sewells Point Rd,4,-322
+1583044594-5,"https://www.google.com/maps/place/Cal'z+Pizza/@36.8892982,-76.2401211,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89ba97105a1b04ff:0x7d78aae300af2ddc!8m2!3d36.8892939!4d-76.2379324!9m1!1b1",Cal'z Pizza,3324 Holland Road,4,-192
+1583044594-7,"https://www.google.com/maps/place/Cal'z+Pizza/@36.9340261,-76.2473017,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89ba90c702ded661:0x6332289ee5a67106!8m2!3d36.9340218!4d-76.245113!9m1!1b1",Cal'z Pizza,1009 Laskin Rd,4.2,-251
+1583044594-4,"https://www.google.com/maps/place/Cal'z+Pizza/@36.8288303,-76.1697097,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89ba95ca9c8d27f9:0xcea11ee40007265d!8m2!3d36.828826!4d-76.167521!9m1!1b1",Cal'z Pizza,5280 Princess Anne Rd,4.4,-165
+1583044594-9,"https://www.google.com/maps/place/Cal'z+Pizza/@36.8024512,-76.0894311,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89babff66a22f545:0xd9ae9bde56bdfa53!8m2!3d36.8024469!4d-76.0872424!9m1!1b1",Cal'z Pizza,624 Independence Blvd,3.9,-133
+1583044594-3,"https://www.google.com/maps/place/Cal'z+Pizza,+Subs,+%26+Wings/@36.9280001,-76.3204054,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89ba997fe35fa873:0x2f9cad30eab3df04!8m2!3d36.9279958!4d-76.3182167!9m1!1b1",Cal'z Pizza,738 E Bayview Blvd,4.1,-160
+1583044594-1,"https://www.google.com/maps/place/Cal'z+Pizza/@36.8565404,-75.9934831,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89bae97d1367a93d:0xfda52320b605a9c9!8m2!3d36.8565361!4d-75.9912944!9m1!1b1",Cal'z Pizza - East Little Creek,3824 E Little Creek Rd,4.2,-172
+1583044594-8,"https://www.google.com/maps/place/Cal'z+Pizza/@36.7991889,-76.0106237,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89bac1e5c988ef27:0x759a112f1cae319b!8m2!3d36.7991846!4d-76.008435!9m1!1b1",Cal'z Pizza,1405 Harpers Rd,4.4,-82
+1583044594-6,"https://www.google.com/maps/place/Cal'z+Pizza/@36.8547736,-76.1367094,17z/data=!3m1!4b1!4m10!1m2!2m1!1scalz+pizza!3m6!1s0x89ba95a8624cdb31:0x31448bd60ee441d3!8m2!3d36.8547693!4d-76.1345207!9m1!1b1","Cal'z Pizza, Subs, & Wings",8245 Hampton Blvd,3.8,-86
