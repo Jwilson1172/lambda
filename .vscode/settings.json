@@ -1,0 +1,82 @@
+{
+    //# python specific options
+    "python.pythonPath": "/opt/conda/envs/ds-nlp/bin/python",
+    "python.formatting.provider": "yapf",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    
+
+    //    "python.linting.pylintEnabled": true,
+    //    "python.linting.enabled": true,
+    //# python.datascience
+    //# General formating
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.autoClosingQuotes": "beforeWhitespace",
+    "editor.colorDecorators": true,
+    "editor.autoIndent": "advanced",
+    "editor.comments.insertSpace": true,
+    "editor.cursorSmoothCaretAnimation": false,
+    "editor.cursorStyle": "line",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "400",
+    "editor.fontFamily": "mono",
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.letterSpacing": 0.6,
+    "editor.renderWhitespace": "all",
+    "editor.trimAutoWhitespace": true,
+    "editor.lineHeight": 18,
+    "editor.rulers": [
+        80
+    ],
+    //# files
+    "files.autoSaveDelay": 3000,
+    "files.autoSave": "afterDelay",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    //# window
+    "window.titleBarStyle": "native",
+    //# COLOR CONFIGURATION/THEME TWEAKING
+    "workbench.colorCustomizations": {
+        //# going to be going off the offical
+        //# StealSeries UX Guide
+        //# activity bar (far left with icons)
+        "activityBar.background": "#2d2d2d",
+        "activityBar.foreground": "#a5a7aa",
+        "activityBar.activeBorder": "#ff5200",
+        "activityBar.activeFocusBorder": "#ff5200",
+        "activityBar.border": "#1c1c1c",
+        "activityBar.inactiveForeground": "#4d4d4d",
+        "activityBarBadge.foreground": "#ff5200",
+        "activityBarBadge.background": "#4d4d4d",
+        //# editor
+        "foreground": "#f4e0cb",
+        "editorWhitespace.foreground": "#5e5e5ec2",
+        "editorRuler.foreground": "#ff000060",
+        //# editor element
+        "editor.foldBackground": "#4d4d4d",
+        "editor.background": "#2d2d2d",
+        //# terminal
+        "terminal.background": "#1c1c1c",
+        "terminal.foreground": "#ff5200f0",
+        //# widget
+        "widget.shadow": "#9b4c38",
+        "editorWidget.resizeBorder": "#a5a7aa",
+        "icon.foreground": "#f4e0cb",
+        //# window.activeBorder
+        "window.activeBorder": "#5ab4ac",
+        "window.inactiveBorder": "#9b4c38",
+        //# lists
+        "list.hoverBackground": "#5ab4ac",
+        "list.hoverForeground": "#0f0f0f",
+        "list.errorForeground": "#ff0000",
+        //# tab
+        "tab.activeModifiedBorder": "#5ab4ac",
+        "tab.inactiveModifiedBorder": "#5ab4ac",
+    },
+
+
+}
