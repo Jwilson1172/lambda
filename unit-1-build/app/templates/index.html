@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% set active_page = "prediction_form" %}
+
+{% block content %}
+{% if data %}
+<h1>RISKY AIR QUALITY REPORTS</h1><br>
+<table style="width:100%">
+    <tr>
+        <th>TIME</th>
+        <th>AIR QUALITY</th>
+    </tr>
+    {% for i in data %}
+    <tr>
+        <td>{{i.utc_time}}</td>
+        <td>{{i.value}}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% else %}
+<p>NO INFORMATION IN DB PLEASE USE REFRESH TAB TO POPULATE DB.</p>
+{% endif %}
+
+{%endblock%}
