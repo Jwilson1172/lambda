@@ -5,8 +5,6 @@
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    
-
     //    "python.linting.pylintEnabled": true,
     //    "python.linting.enabled": true,
     //# python.datascience
@@ -20,7 +18,7 @@
     "editor.cursorStyle": "line",
     "editor.fontLigatures": true,
     "editor.fontWeight": "400",
-    "editor.fontFamily": "mono",
+    //"editor.fontFamily": "mono",
     "editor.fontSize": 16,
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
@@ -77,6 +75,4 @@
         "tab.activeModifiedBorder": "#5ab4ac",
         "tab.inactiveModifiedBorder": "#5ab4ac",
     },
-
-
 }
